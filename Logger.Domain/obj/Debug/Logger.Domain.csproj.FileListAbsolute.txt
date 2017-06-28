@@ -1,0 +1,5 @@
+D:\Works\运维监控\Logger\Logger.Domain\bin\Debug\Logger.Domain.dll
+D:\Works\运维监控\Logger\Logger.Domain\bin\Debug\Logger.Domain.pdb
+D:\Works\运维监控\Logger\Logger.Domain\bin\Debug\Chloe.dll
+D:\Works\运维监控\Logger\Logger.Domain\obj\Debug\Logger.Domain.dll
+D:\Works\运维监控\Logger\Logger.Domain\obj\Debug\Logger.Domain.pdb

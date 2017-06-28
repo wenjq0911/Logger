@@ -1,0 +1,16 @@
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Logger.Data.dll.config
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Logger.Data.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Logger.Data.pdb
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Chloe.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Chloe.MySql.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Chloe.Oracle.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Chloe.SQLite.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Chloe.SqlServer.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\MySql.Data.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\PostSharp.dll
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\PostSharp.xml
+D:\Works\运维监控\Logger\Logger.Data\bin\Debug\Logger.Data.pssym
+D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.dll.postsharp
+D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.dll
+D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.pdb
+D:\Works\运维监控\Logger\Logger.Data\obj\Debug\PostSharpHost.config

@@ -1,0 +1,17 @@
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.IDao.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.IDao.pdb
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Common.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Data.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Domain.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Chloe.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\PostSharp.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Chloe.MySql.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Chloe.SqlServer.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\MySql.Data.dll
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Common.pdb
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Data.pdb
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\Logger.Domain.pdb
+D:\Works\运维监控\Logger\Logger.IDao\bin\Debug\PostSharp.xml
+D:\Works\运维监控\Logger\Logger.IDao\obj\Debug\Logger.IDao.csprojResolveAssemblyReference.cache
+D:\Works\运维监控\Logger\Logger.IDao\obj\Debug\Logger.IDao.dll
+D:\Works\运维监控\Logger\Logger.IDao\obj\Debug\Logger.IDao.pdb

@@ -1,0 +1,4 @@
+D:\Works\运维监控\Logger\Logger.ViewModel\bin\Debug\Logger.ViewModel.dll
+D:\Works\运维监控\Logger\Logger.ViewModel\bin\Debug\Logger.ViewModel.pdb
+D:\Works\运维监控\Logger\Logger.ViewModel\obj\Debug\Logger.ViewModel.dll
+D:\Works\运维监控\Logger\Logger.ViewModel\obj\Debug\Logger.ViewModel.pdb
