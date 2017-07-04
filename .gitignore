@@ -1,5 +1,6 @@
-#packages
-#obj
-#bin
-#.user
-#.suo
+packages
+obj
+bin
+.user
+.suo
+.vs
