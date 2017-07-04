@@ -1,7 +1,0 @@
-D:\Works\运维监控\Logger\Logger.Common\bin\Debug\Logger.Common.dll
-D:\Works\运维监控\Logger\Logger.Common\bin\Debug\Logger.Common.pdb
-D:\Works\运维监控\Logger\Logger.Common\bin\Debug\Logger.Common.pssym
-D:\Works\运维监控\Logger\Logger.Common\obj\Debug\Logger.Common.dll.postsharp
-D:\Works\运维监控\Logger\Logger.Common\obj\Debug\Logger.Common.dll
-D:\Works\运维监控\Logger\Logger.Common\obj\Debug\Logger.Common.pdb
-D:\Works\运维监控\Logger\Logger.Common\obj\Debug\PostSharpHost.config
