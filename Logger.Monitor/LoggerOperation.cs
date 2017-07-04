@@ -50,7 +50,7 @@ namespace Logger.Monitor
             var wach = WachFac.GetWach(filterContext, Constant.NAME_KEY_ACTION);
             var m = new OptLogModel()
             {
-                uuid = wach.current_request_uuid,
+                uuid = Guid.NewGuid().ToString().Replace("-",""),
                 log_time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
                 remark = Remark,
                 type = (int)Type,

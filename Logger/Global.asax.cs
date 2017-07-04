@@ -4,6 +4,7 @@ using Logger.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
@@ -21,10 +22,12 @@ namespace Logger
             var builder = Register();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(builder.Build()));
 
-
+            var m = new Logger.App_Start.Monitor();
+            m.BeginMonitor();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-            BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+           
         }
 
         private ContainerBuilder Register()

@@ -70,10 +70,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseService.cs" />
     <Compile Include="BaseDao.cs" />
     <Compile Include="ContextFactory.cs" />
     <Compile Include="Db.cs" />
     <Compile Include="DbContext.cs" />
+    <Compile Include="IBaseService.cs" />
     <Compile Include="IBaseDao.cs" />
     <Compile Include="IContextFactory.cs" />
     <Compile Include="MysqlConnectionFactory.cs" />

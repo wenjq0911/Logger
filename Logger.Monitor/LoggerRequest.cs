@@ -50,7 +50,9 @@ namespace Logger.Monitor
                 param_form= Util.ConvertNameValueCollection(filterContext.HttpContext.Request.Form),
                 action_ms= action_wach.milliseconds,
                 render_ms= render.milliseconds,
-                logger_time= DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
+                logger_time= DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
+                browser=filterContext.HttpContext.Request.Browser.Browser,
+                version=filterContext.HttpContext.Request.Browser.Version
             };
             var mq = new ActiveMQHelper();
             mq.InitQueueOrTopic(false, Constant.LOGGER_REQUEST_MQ_NAME);

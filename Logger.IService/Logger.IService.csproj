@@ -40,13 +40,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IUserService.cs" />
+    <Compile Include="IHostInfoService.cs" />
+    <Compile Include="IExceptionInfoService.cs" />
+    <Compile Include="ILogExceptionService.cs" />
+    <Compile Include="ILogRequestService.cs" />
+    <Compile Include="ILogOperationService.cs" />
+    <Compile Include="IOperationInfoService.cs" />
+    <Compile Include="IRequestInfoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Logger.Common\Logger.Common.csproj">
       <Project>{dfe0a6af-1db2-4599-a315-10582d6c10ef}</Project>
       <Name>Logger.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logger.Data\Logger.Data.csproj">
+      <Project>{6CBFF759-B48B-4553-8801-87A4CF56849F}</Project>
+      <Name>Logger.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Logger.Domain\Logger.Domain.csproj">
       <Project>{6035128B-5FB0-4C96-AC4E-8B193A53A452}</Project>

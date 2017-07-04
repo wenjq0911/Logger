@@ -14,3 +14,4 @@ D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.dll.postsharp
 D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.dll
 D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.pdb
 D:\Works\运维监控\Logger\Logger.Data\obj\Debug\PostSharpHost.config
+D:\Works\运维监控\Logger\Logger.Data\obj\Debug\Logger.Data.csprojResolveAssemblyReference.cache

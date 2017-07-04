@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Logger.Monitor
 {
-    internal class Constant
+    public class Constant
     {
         public const string ACTIVE_MQ_HOST = "ActiveMQHost";
         public const string LOGGER_OPT_MQ_NAME = "OPTLOGGER";

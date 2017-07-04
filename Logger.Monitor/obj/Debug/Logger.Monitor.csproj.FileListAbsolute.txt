@@ -27,3 +27,4 @@ D:\Works\运维监控\Logger\Logger.Monitor\bin\Debug\zh-Hans\System.Web.WebPage
 D:\Works\运维监控\Logger\Logger.Monitor\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\Works\运维监控\Logger\Logger.Monitor\obj\Debug\Logger.Monitor.dll
 D:\Works\运维监控\Logger\Logger.Monitor\obj\Debug\Logger.Monitor.pdb
+D:\Works\运维监控\Logger\Logger.Monitor\obj\Debug\Logger.Monitor.csprojResolveAssemblyReference.cache

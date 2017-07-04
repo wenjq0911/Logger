@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Chloe, Version=2.10.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Chloe.2.10.0\lib\net40\Chloe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,8 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DeptDao.cs" />
-    <Compile Include="UserDao.cs" />
+    <Compile Include="HostInfoDao.cs" />
+    <Compile Include="ExceptionInfoDao.cs" />
+    <Compile Include="LogExceptionDao.cs" />
+    <Compile Include="LogRequestDao.cs" />
+    <Compile Include="LogOperationDao.cs" />
+    <Compile Include="OperationInfoDao.cs" />
+    <Compile Include="RequestInfoDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +70,9 @@
       <Project>{51c4cab0-86b4-4e12-bf5c-6c99e922dcdd}</Project>
       <Name>Logger.IDao</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

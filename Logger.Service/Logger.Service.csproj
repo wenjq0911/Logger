@@ -49,7 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UserService.cs" />
+    <Compile Include="HostInfoService.cs" />
+    <Compile Include="LogExceptionService.cs" />
+    <Compile Include="LogRequestService.cs" />
+    <Compile Include="LogOperationService.cs" />
+    <Compile Include="OperationInfoService.cs" />
+    <Compile Include="RequestInfoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

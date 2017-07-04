@@ -46,9 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dept.cs" />
-    <Compile Include="UserInfo.cs" />
+    <Compile Include="ExceptionInfo.cs" />
+    <Compile Include="HostInfo.cs" />
+    <Compile Include="LogException.cs" />
+    <Compile Include="LogOperation.cs" />
+    <Compile Include="LogRequest.cs" />
+    <Compile Include="LogServer.cs" />
+    <Compile Include="OperationInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

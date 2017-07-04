@@ -40,9 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IDeptDao.cs" />
-    <Compile Include="IUserDao.cs" />
+    <Compile Include="IHostInfoDao.cs" />
+    <Compile Include="ILogRequestDao.cs" />
+    <Compile Include="IExceptionInfoDao.cs" />
+    <Compile Include="ILogExceptionDao.cs" />
+    <Compile Include="ILogOperationDao.cs" />
+    <Compile Include="IOperationInfoDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IRequestInfoDao.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Logger.Common\Logger.Common.csproj">

@@ -1,10 +1,10 @@
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.Dao.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.Dao.pdb
+D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Chloe.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.Common.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.Data.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.Domain.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Logger.IDao.dll
-D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Chloe.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\PostSharp.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Chloe.MySql.dll
 D:\Works\运维监控\Logger\Logger.Dao\bin\Debug\Chloe.SqlServer.dll

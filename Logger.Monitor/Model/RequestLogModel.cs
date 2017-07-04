@@ -21,5 +21,7 @@ namespace Logger.Monitor.Model
         public int render_ms { get; set; }
         public string logger_time { get; set; }
         public int is_exception { get; set; }
+        public string browser { get; set; }
+        public string version { get; set; }
     }
 }
